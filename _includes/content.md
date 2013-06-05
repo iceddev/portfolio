@@ -39,45 +39,65 @@ __Technologies:__ JavaScript (Dojo/Dijits), CSS3, JEE, Responsive Design, Access
 
 ## Open Source
 
-### [FrozenJS](http://frozenjs.com)
+### FrozenJS
 
 An open-source HTML5 game engine delivering ease-of-use, rapid development through tooling and modularity
 
-### [Frozen Physics Editor](http://phated.github.io/frozen-editor/)
+[website](http://frozenjs.com) | [github](https://github.com/iceddev/frozen)
+
+### [Frozen Physics Editor
 
 Browser-based physics editor using Frozen and Box2d
 
-### [Rawr](https://github.com/iceddev/rawr)
+[website](http://phated.github.io/frozen-editor/) | [github](https://github.com/phated/frozen-editor)
+
+### Rawr
 
 JSON-RPC over WebSockets
 
-### [Face](https://github.com/monteslu/Face)
+[website](https://npmjs.org/package/rawr) | [github](https://github.com/iceddev/rawr)
+
+### Face
 
 Side loadable app to bi-directionally communicate from Google Glass to a websocket
 
-### [Node-Chromify](https://github.com/iceddev/node-chromify)
+[github](https://github.com/monteslu/Face)
+
+### Node-Chromify
 
 Experiment to put Node.js into Chrome
 
-### [Draw It Live](http://www.drawitlive.com/) - [Node rewrite](https://github.com/iceddev/drawitlivenode)
+[github](https://github.com/iceddev/node-chromify)
+
+### Draw It Live
 
 An open source colaborative whiteboard/communication platform.
 
-### [Grunt-Dojo](https://github.com/phated/grunt-dojo)
+[website](http://www.drawitlive.com/) | [github](https://github.com/monteslu/drawitlive) | [node rewrite](https://github.com/iceddev/drawitlivenode)
+
+### Grunt-Dojo
 
 Grunt task for the Dojo build process
 
-### [Grunt-Lodash](https://github.com/lodash/grunt-lodash)
+[website](https://npmjs.org/package/grunt-dojo) | [github](https://github.com/phated/grunt-dojo)
+
+### Grunt-Lodash
 
 Grunt task for the Lo-Dash build process
 
-### [Grunt-Jade](https://github.com/phated/grunt-jade)
+[github](https://github.com/lodash/grunt-lodash)
+
+### Grunt-Jade
 
 Grunt task to compile jade templates to JavaScript functions (global, CommonJS, or AMD) or plain HTML
 
-### [Volo-Grunt](https://github.com/phated/volo-grunt)
+[website](https://npmjs.org/package/grunt-jade) | [github](https://github.com/phated/grunt-jade)
+
+### Volo-Grunt
 
 A simple volo task to pass commands directly to a locally installed Grunt
+
+[website](https://npmjs.org/package/volo-grunt) | [github](https://github.com/phated/volo-grunt)
 
 ## Presentations
 
