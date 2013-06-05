@@ -11,13 +11,37 @@ __Technologies:__ JavaScript (Dojo), Node.js, WebSockets, HTML5, Graphs/Charting
 
 Create an interactive image manipulation tool
 
-__Technologies:__ JavaScript (Dojo), HTML5 Canvas, SVG, REST, AMD, Responsive Design
+__Technologies:__ JavaScript (Dojo), HTML5 Canvas, SVG, VML, REST, AMD, Responsive Design, Agile Methodologies
+
+### Sales Lead Generation
+
+Transition business logic from client to Node.js server and integrate Salesforce API for leads
+
+__Technologies:__ JavaScript (jQuery), Salesforce Node.js API Library, AJAX, Express
+
+### Realtime Online Wagering Platform
+
+Build out a multi-tier backend and completely rewrite the frontend for a dynamic wagering system
+
+__Technologies:__ JavaScript (Dojo/jQuery/dGrid), Java (Spring MVC), Node.js, MySQL, MongoDB, Hibernate, SOAP, WSDL, Quartz, Cron, XML, JSP, RedHat Enterprise Linux, Tomcat, Jetty, Maven
+
+### Single Sign On Integration
+
+Integrate enterprise Java backend with single sign on solution from external marketing company
+
+__Technologies:__ Java (Spring MVC), Oracle, JSP, REST/XML Services, JBoss, RedHat Enterprise Linux, Maven
+
+### Cisco Enterprise Collaboration - WebEx Social
+
+Platform theming of Dojo Dijits and JavaScript enhancements
+
+__Technologies:__ JavaScript (Dojo/Dijits), CSS3, JEE, Responsive Design, Accessibility, User Experience, Agile Methodologies
 
 ## Open Source
 
 ### [FrozenJS](http://frozenjs.com)
 
-An open-source HTML5 game engine delivering ease-of-use, rapid development through tooling and modularity.
+An open-source HTML5 game engine delivering ease-of-use, rapid development through tooling and modularity
 
 ### [Frozen Physics Editor](http://phated.github.io/frozen-editor/)
 
@@ -29,7 +53,7 @@ JSON-RPC over WebSockets
 
 ### [Face](https://github.com/monteslu/Face)
 
-Side loadable app to bidirectionally communicate from Google Glass to a websocket
+Side loadable app to bi-directionally communicate from Google Glass to a websocket
 
 ### [Node-Chromify](https://github.com/iceddev/node-chromify)
 
