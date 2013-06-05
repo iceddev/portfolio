@@ -1,12 +1,3 @@
-# Iced Development, LLC
-
-### [iceddev.com](http://iceddev.com)
-
-## Contact
-
-### [info@iceddev.com](mailto:info@iceddev.com)
-### [@iceddev](https://twitter.com/iceddev)
-
 ## Projects
 
 ### Analytics Dashboard
