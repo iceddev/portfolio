@@ -101,54 +101,80 @@ A simple volo task to pass commands directly to a locally installed Grunt
 
 ## Presentations
 
-### [Post Modern Game Input Devices](https://github.com/iceddev/post-modern-game-input)
+### Post Modern Game Input Devices
 
 Luis / JSConf / 2013
 
-### [Sound Will Age You](http://blog.iceddev.com/sound-will-age-you/)
+[github](https://github.com/iceddev/post-modern-game-input)
+
+### Sound Will Age You
 
 Blaine / JSConf / 2013
 
-### [Faster Than Ajax](http://azprogrammer.com/talks/dcc13_ws/)
+[slides](http://blog.iceddev.com/sound-will-age-you/) | [github](https://github.com/iceddev/sound-will-age-you)
+
+### Faster Than Ajax
 
 Luis / Desert Code Camp / 2013
 
-### [Dive into HTML5 Game Development](http://azprogrammer.com/talks/dcc13_html5/)
+[slides](http://azprogrammer.com/talks/dcc13_ws/)
+
+### Dive into HTML5 Game Development
 
 Luis / Desert Code Camp / 2013
 
-### [Grunt.js Deep Dive](https://github.com/phated/dcc2013grunt)
+[slides](http://azprogrammer.com/talks/dcc13_html5/)
+
+### Grunt.js Deep Dive
 
 Blaine / Desert Code Camp / 2013
 
-### [HTML5 Boilerplate](http://azprogrammer.com/talks/holidayjs_html5/)
+[github](https://github.com/phated/dcc2013grunt)
+
+### HTML5 Boilerplate
 
 Luis / HolidayJS / 2012
 
-### [HTML5 Features](http://azprogrammer.com/talks/techforum_html5/)
+[slides](http://azprogrammer.com/talks/holidayjs_html5/)
+
+### HTML5 Features
 
 Luis / UAT Tech Forum / 2012
 
-### [Modular JS with AMD](http://azprogrammer.com/talks/phxjs_amd/)
+[slides](http://azprogrammer.com/talks/techforum_html5/)
+
+### Modular JS with AMD
 
 Luis / PHX JavaScript / 2012
 
-### [Using Newer Clientside Technologies with JEE](http://azprogrammer.com/talks/dcc12_java/)
+[slides](http://azprogrammer.com/talks/phxjs_amd/)
+
+### Using Newer Clientside Technologies with JEE
 
 Luis / Desert Code Camp / 2012
 
-### [HTML5 Gaming](http://azprogrammer.com/talks/dcc12_html5/)
+[slides](http://azprogrammer.com/talks/dcc12_java/)
+
+### HTML5 Gaming
 
 Luis / Desert Code Camp / 2012
 
-### [Grunt/Yeoman: The New JavaScript Build Process](https://github.com/phated/dcc_grunt)
+[slides](http://azprogrammer.com/talks/dcc12_html5/)
+
+### Grunt/Yeoman: The New JavaScript Build Process
 
 Blaine / Desert Code Camp / 2012
 
-### [EnyoJS As A Framework for Great Justice](http://phxmobi.nodester.com/)
+[github](https://github.com/phated/dcc_grunt)
+
+### EnyoJS As A Framework for Great Justice
 
 Blaine / PHXMobi, Phoenix GDG & Desert Code Camp / 2012
 
-### [Fun With HTML5](http://blog.iceddev.com/desertjs_html5/)
+[slides](http://phxmobi.nodester.com/)
+
+### Fun With HTML5
 
 Blaine & Luis / DesertJS / 2012
+
+[slides](http://blog.iceddev.com/desertjs_html5/)
