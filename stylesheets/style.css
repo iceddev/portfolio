@@ -6,11 +6,11 @@ body {
 
 abbr { border: none; cursor: help; }
 
-h1, h2, h3, h4 {
+h1 {
+  font-size: 2em;
   font-family: 'Bowlby One SC', cursive;
 }
 
-h1 { font-size: 2em; }
 h2 { font-size: 1.8em; }
 
 h3 {
