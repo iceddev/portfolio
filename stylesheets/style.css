@@ -54,7 +54,6 @@ ul {
 
 .tags {
   font-size: 0.85em;
-  font-family: "Courier New", Courier, monospace;
   margin-top: 0;
   margin-bottom: 2em;
 }
@@ -74,8 +73,7 @@ ul {
   -webkit-border-radius: 0.25em;
   border-radius: 0.25em;
 
-  border: 1px solid #eee;
-  background-color: #efefef;
+  background-color: #b1e3fe;
   padding: 0.40em;
   line-height: 2.8em;
 }
@@ -198,7 +196,7 @@ em {
 /* PRINT MEDIA */
 
 @media print {
-  body { color: #000; font-family: Cambria, Georgia, Times, "Times New Roman", serif; font-size: 1.3em; }
+  body { color: #000; font-size: 1.3em; }
   em { font-weight: bold; }
   a:link, a:visited { color: #007; text-decoration: none; }
   .tags li { color: #000; }
