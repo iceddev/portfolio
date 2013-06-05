@@ -1,3 +1,4 @@
+
 ## Projects
 
 ### Analytics Dashboard
@@ -76,8 +77,34 @@ Luis / Desert Code Camp / 2013
 
 Blaine / Desert Code Camp / 2013
 
-### Luis DCC 2012 - ??
+### [HTML5 Boilerplate](http://azprogrammer.com/talks/holidayjs_html5/)
 
-### Blaine DCC 2012 - Grunt
+Luis / HolidayJS / 2012
 
-### Blaine DCC 2012 - EnyoJS
+### [HTML5 Features](http://azprogrammer.com/talks/techforum_html5/)
+
+Luis / UAT Tech Forum / 2012
+
+### [Modular JS with AMD](http://azprogrammer.com/talks/phxjs_amd/)
+
+Luis / PHX JavaScript / 2012
+
+### [Using Newer Clientside Technologies with JEE](http://azprogrammer.com/talks/dcc12_java/)
+
+Luis / Desert Code Camp / 2012
+
+### [HTML5 Gaming](http://azprogrammer.com/talks/dcc12_html5/)
+
+Luis / Desert Code Camp / 2012
+
+### [Grunt/Yeoman: The New JavaScript Build Process](https://github.com/phated/dcc_grunt)
+
+Blaine / Desert Code Camp / 2012
+
+### [EnyoJS As A Framework for Great Justice](http://phxmobi.nodester.com/)
+
+Blaine / PHXMobi, Phoenix GDG & Desert Code Camp / 2012
+
+### [Fun With HTML5](http://blog.iceddev.com/desertjs_html5/)
+
+Blaine & Luis / DesertJS / 2012
