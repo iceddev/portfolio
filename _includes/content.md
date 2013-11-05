@@ -37,13 +37,11 @@ Platform theming of Dojo Dijits and JavaScript enhancements
 
 __Technologies:__ JavaScript (Dojo/Dijits), CSS3, JEE, Responsive Design, Accessibility, User Experience, Agile Methodologies
 
-
 ### Gearbox - Borderlands2 Loot Hunt
 
 Responsive website and highly scalable back-end to support Gearbox's Borderlands2 Game of the Year promotion.
 
 __Technologies:__ JavaScript, CSS3, HTML5, Responsive Design, User Experience, Node.js, Cloud computing
-
 
 ## Open Source
 
@@ -69,13 +67,13 @@ JSON-RPC over WebSockets
 
 Side loadable app to bi-directionally communicate from Google Glass to a websocket
 
-[github](https://github.com/monteslu/Face) [blog](http://blog.iceddev.com/2013-07-30-controlling-drones-with-google-glass-and-javascript.html)
+[github](https://github.com/monteslu/Face) | [blog](http://blog.iceddev.com/2013-07-30-controlling-drones-with-google-glass-and-javascript.html)
 
 ### Node-Chromify
 
 Experiment to put Node.js into Chrome
 
-[github](https://github.com/iceddev/node-chromify) [blog](http://blog.iceddev.com/2012-11-05-node-js-in-chrome.html)
+[github](https://github.com/iceddev/node-chromify) | [blog](http://blog.iceddev.com/2012-11-05-node-js-in-chrome.html)
 
 ### Draw It Live
 
