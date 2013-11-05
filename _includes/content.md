@@ -39,7 +39,7 @@ __Technologies:__ JavaScript (Dojo/Dijits), CSS3, JEE, Responsive Design, Access
 
 ### Gearbox - Borderlands2 Loot Hunt
 
-Responsive website and highly scalable back-end to support Gearbox's Borderlands2 Game of the Year promotion.
+Responsive website and highly scalable back-end to support Gearbox's Borderlands2 Game of the Year promotion. [borderlands2loothunt.com](http://borderlands2loothunt.com)
 
 __Technologies:__ JavaScript, CSS3, HTML5, Responsive Design, User Experience, Node.js, Cloud computing
 
@@ -51,7 +51,7 @@ An open-source HTML5 game engine delivering ease-of-use, rapid development throu
 
 [website](http://frozenjs.com) | [github](https://github.com/iceddev/frozen)
 
-### [Frozen Physics Editor
+### Frozen Physics Editor
 
 Browser-based physics editor using Frozen and Box2d
 
