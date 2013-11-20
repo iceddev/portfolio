@@ -57,6 +57,12 @@ Browser-based physics editor using Frozen and Box2d
 
 [website](http://phated.github.io/frozen-editor/) | [github](https://github.com/phated/frozen-editor)
 
+### Harp Hook - Node Knockout 2013 winner
+
+Compile and Deploy your project to [GitHub Pages](http://pages.github.com/) using [Harp](http://harpjs.com/) every time you push to your master branch.
+
+[website](http://iceddev.2013.nodeknockout.com/) | [team](http://nodeknockout.com/teams/iceddev)
+
 ### Rawr
 
 JSON-RPC over WebSockets
